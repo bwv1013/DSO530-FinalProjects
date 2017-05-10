@@ -1,7 +1,1 @@
-# ashortname
-Fortesting
-
-We need to have a short name for the github
-
-
-New
+This is the final project for DSO 530 Applied Modern Statistical Learning Methods
